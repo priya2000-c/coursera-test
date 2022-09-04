@@ -1,2 +1,2 @@
-# priya2000-c
+# coursera-test
 coursera test repository
